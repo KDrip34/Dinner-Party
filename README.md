@@ -1,1 +1,2 @@
 # Dinner-Party
+This coding talks about a dinner between one of some popular influencers. These influencers are specifically important becuase they are really part of the male self developement community. These guys helped changed part of my life with their content and advice. So I decided to simulate what a dinner would be like for them just to congratulate them for what they did to help young guys like me.
